@@ -1,0 +1,4 @@
+pulumi>=3
+pulumi-gcp
+requests
+python-dotenv

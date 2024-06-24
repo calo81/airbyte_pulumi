@@ -1,0 +1,5 @@
+backend: !!python/object:pulumi.automation._project_settings.ProjectBackend
+  url: gs://pulumi-state-carlo
+main: /Users/cscarioni/projects/pulumi_airbyte
+name: pulumi_airbyte
+runtime: python
